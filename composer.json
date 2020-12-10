@@ -1,0 +1,12 @@
+{
+    "name": "ivanpodgorny/editor-templater",
+    "require": {
+        "php": "^7.4",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "EditorTemplater\\": "src/"
+        }
+    }
+}
